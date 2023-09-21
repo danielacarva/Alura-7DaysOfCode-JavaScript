@@ -1,6 +1,6 @@
 <h1>Desafio 7DaysOfCode - Alura - JavaScript</h1>
 
-São 7 dias codando diáriamente, com desafios desenvolvidos pela Rafa Ballerini da Alura.
+São 7 dias codando diariamente, com desafios desenvolvidos pela Rafa Ballerini da Alura.
 
 1 - Crie um arquivo que compare números, de acordo com o desafio do dia: as variáveis tem o mesmo valor, mas tipos diferentes ou as variáveis não tem o mesmo valor;
 
