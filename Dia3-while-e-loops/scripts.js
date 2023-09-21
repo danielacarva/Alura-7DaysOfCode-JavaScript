@@ -17,11 +17,9 @@ const resposta1 = prompt("Você quer seguir para a área de FrontEnd ou BackEnd?
   const resposta3 = prompt("Tem mais alguma tecnologia que você gostaria de aprender?")
     alert(`A ${resposta3} é muito interessante!`)
   
-  const resposta4 = prompt("Mais alguma tecnologia que você gostaria de aprender? Se não tiver mais nenhuma, digite - não -.")
-
-  if (resposta4 !== "") {
-    alert("É isso ai!!!")
-  } else {
-    alert("Ok. Nos vemos em breve! Bons estudos!")
+  let resposta;
+  while (resposta!== "não"){
+    resposta = prompt("Mais alguma tecnologia que você gostaria de aprender? Se não tiver mais nenhuma, digite - não -.")
   }
+    alert("Ok. Nos vemos em breve! Bons estudos!")
   
